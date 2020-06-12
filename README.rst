@@ -18,3 +18,6 @@ pytest-whirlwind
 
 .. image:: https://codecov.io/gh/supakeen/pytest-whirlwind/branch/master/graph/badge.svg
     :target: https://codecov.io/gh/supakeen/pytest-whirlwind
+
+Plugin to py.test to provide ease of testability for Tornado-based Python code.
+Supports Tornado's HTTP bits, WebSockets, and IOStreams.
