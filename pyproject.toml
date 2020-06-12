@@ -5,7 +5,7 @@ description = "Testing Tornado."
 authors = ["supakeen <cmdr@supakeen.com>"]
 license = "MIT"
 readme = "README.rst"
-keywords = ["statistics", "irc"]
+keywords = ["tornado", "pytest"]
 repository = "https://github.com/supakeen/pytest-whirlwind"
 classifiers = [
   "License :: OSI Approved :: MIT License",
